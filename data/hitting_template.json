@@ -1,0 +1,24 @@
+{
+    "name": "打人事件模版",
+        "children": [
+        { "name": "中文名", "size":5},
+        { "name": "外文名", "size":3},
+        { "name": "坐标","size":5},
+        { "name": "日期", "size":3},
+        { "name": "时间", "size":3},
+        { "name": "地点", "size":3},
+        { "name": "袭击目标", "size":3},
+        { "name": "动机", "size":3},
+        { "name": "起因", "size":3},
+        { "name": "袭击形式", "size":3},
+        { "name": "武器", "size":3},
+        { "name": "死亡人数", "size":3},
+        { "name": "受伤人数", "size":3},
+        { "name": "受害者", "size":3},
+        { "name": "主凶", "size":3},
+        { "name": "嫌疑犯", "size":3},
+        { "name": "参与者", "size":3},
+        { "name": "性质", "size":3},
+        { "name": "结果", "size":3}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "沉船事件模版",
+        "children": [
+        { "name": "中文名", "size":5},
+        { "name": "外文名", "size":3},
+        { "name": "又称", "size":3},
+        { "name": "坐标","size":5},
+        { "name": "发生日期", "size":3},
+        { "name": "发生时间", "size":3},
+        { "name": "发生事件", "size":3},
+        { "name": "发生地点", "size":3},
+        { "name": "载客人数", "size":3},
+        { "name": "死亡人数", "size":3},
+        { "name": "受伤人数", "size":3},
+        { "name": "失踪人数", "size":3},
+        { "name": "事故原因", "size":3},
+        { "name": "涉事公司", "size":3},
+        { "name": "结果", "size":3},
+        { "name": "出事船只", "size":3},
+        { "name": "相关文艺作品", "size":1}
+    ]
+}

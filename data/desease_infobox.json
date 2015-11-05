@@ -1,0 +1,13 @@
+{
+    "name": "2015年韩国中东呼吸综合征爆发",
+        "children": [
+        { "name": "中文名", "value":"2015年韩国中东呼吸综合征爆发"},
+        { "name": "外文名", "value":"2015 Middle East respiratory syndrome outbreak in Sou"},
+        { "name": "传染源", "value":"MERS病毒"},
+        { "name": "时间", "value":"2015年5月－现在"},
+        { "name": "感染人数", "value":"16,326"},
+        { "name": "受难人数", "value":"33"},
+        { "name": "受灾区域", "value":"韩国"},
+        { "name": "首次爆发", "value":"2015年5月20日，韩国公布第一宗中东呼吸综合征感染个案"}
+    ]
+}

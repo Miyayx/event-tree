@@ -1,0 +1,16 @@
+{
+    "name": "疾病疫情模版",
+        "children": [
+        { "name": "中文名", "size":5},
+        { "name": "外文名", "size":3},
+        { "name": "传染源", "size":5},
+        { "name": "传播途径","size":5},
+        { "name": "时间", "size":5},
+        { "name": "性质", "size":2},
+        { "name": "感染人数", "size":4},
+        { "name": "受难人数", "size":4},
+        { "name": "受灾区域", "size":4},
+        { "name": "后果", "size":2},
+        { "name": "首次爆发", "size":4}
+    ]
+}
